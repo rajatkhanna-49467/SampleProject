@@ -2,9 +2,11 @@ Hello World!
 
 Rajat, here.
 
-How you all doing?
+How you all doing? RK
 
 
-Updated: for bug1 fix
+Updated: for bug1 fix.
 
-Change for W3 by team mate for 3-way merging conflict.
+Change: for W3 by team mate for 3-way merging conflict.
+
+Updated: for bug2 3-way merging with conflict.
