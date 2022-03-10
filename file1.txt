@@ -1,6 +1,6 @@
-Hello WOrld!
+Hello WOrld!!
 
-Rajat, Here.
+Rajat,: here.
 
 How you All doing? RK
 
@@ -12,3 +12,8 @@ Change: For W3 by team mate for 3-way merging conflict.
 Updated: For bug2 3-way merging with conflict.
 
 Change: For W4 by team mate for rebase with conflict.
+
+Updated: for bug2 3-way merging with conflict.
+
+Change: for CR1 to check rebase with conflict.
+
