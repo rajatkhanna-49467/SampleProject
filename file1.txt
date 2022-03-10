@@ -17,3 +17,7 @@ Updated: for bug2 3-way merging with conflict.
 
 Change: for CR1 to check rebase with conflict.
 
+Change: for CR2 to check stash for half done work inprogress.
+
+
+
