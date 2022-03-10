@@ -2,7 +2,10 @@ Hello World!
 
 Rajat, here.
 
-How you all doing?
+How you all doing? RK
 
 
-Updated for bug1 fix
+Updated for bug1 fix. RK
+
+
+Updated for bug2 3-way merging with conflict.
