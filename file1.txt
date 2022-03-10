@@ -1,12 +1,14 @@
-Hello World!
+Hello WOrld!
 
-Rajat, here.
+Rajat, Here.
 
-How you all doing? RK
+How you All doing? RK
 
 
-Updated: for bug1 fix.
+Updated: For bug1 fix.
 
-Change: for W3 by team mate for 3-way merging conflict.
+Change: For W3 by team mate for 3-way merging conflict.
 
-Updated: for bug2 3-way merging with conflict.
+Updated: For bug2 3-way merging with conflict.
+
+Change: For W4 by team mate for rebase with conflict.
